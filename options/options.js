@@ -1,10 +1,11 @@
 export const globalOptions = {
-  name: "demoapp-48290",
-  url: "https://demoapp-48290.botics.co",
-  api: "https://demoapp-48290.botics.co/api/v1",
-  screenOptions: {
-    headerShown: false
-  }
+  "name": "demoapp-48290",
+  "url": "https://demoapp-48290.botics.co",
+  "api": "https://demoapp-48290.botics.co/api/v1",
+  "screenOptions": {
+    "headerShown": false
+  },
+  "initialRoute": "LoginScreen"
 };
 export const modulesOptions = {
   "@modules/app-menu": {
